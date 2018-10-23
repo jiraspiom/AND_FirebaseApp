@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "781540837913",
+    "firebase_url": "https://projeto-dc95f.firebaseio.com",
+    "project_id": "projeto-dc95f",
+    "storage_bucket": "projeto-dc95f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781540837913:android:6238c877e1412f9c",
+        "android_client_info": {
+          "package_name": "br.com.example.alalgi.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781540837913-9qj3s1188erft4v5driud8qe40bfg318.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.example.alalgi.firebaseapp",
+            "certificate_hash": "1fbd4e7adfe584534c02b9c50584cd02e4171448"
+          }
+        },
+        {
+          "client_id": "781540837913-767dj29kk94dah19mggom2dbjksrgik0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdmT__T-NmBC1vPKckM0POU9yOauAVBlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781540837913-767dj29kk94dah19mggom2dbjksrgik0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
